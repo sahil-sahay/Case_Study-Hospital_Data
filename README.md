@@ -1,0 +1,2 @@
+# Case_Study-Hospital_Data
+Demo of creating DataFrame schema using StructType object.  Creation of DataFrames without explicit use of map onto each column of csv file.   Demo of Sparl-SQL inbuilt functions such as round() ,pow(), Aggregate functions such as sum(), avg() explicit type casting of sql columns using cast() built in function. Many other advanced sql functions such as grouping &amp; ordering output in custom format.
